@@ -1,6 +1,4 @@
-/*
-this header file implements the algorithm for 128-bit encryption 
-*/
+
 #include<iostream>
 #include "lookup_table_encoding.h"
 #include "key_expand.h"
