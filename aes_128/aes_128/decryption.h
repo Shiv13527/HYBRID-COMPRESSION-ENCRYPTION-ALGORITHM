@@ -1,6 +1,3 @@
-/*
-this header file implements the algorithm for 128-bit decryption 
-*/
 #include<iostream>
 #include "lookup_table_decoding.h"
 #include "key_expand.h"
